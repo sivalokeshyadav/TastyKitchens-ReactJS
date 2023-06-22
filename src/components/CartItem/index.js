@@ -96,7 +96,7 @@ class CartItem extends Component {
                 <BsPlusSquare />
               </button>
             </div>
-            <p testid="total-price" className="cart-item-cost">
+            <p testid="total-amount" className="cart-item-cost">
               <span>₹</span>
               {totalOrderCost}
             </p>
@@ -132,7 +132,7 @@ class CartItem extends Component {
               <BsPlusSquare />
             </button>
           </div>
-          <p data-testId="total-price" className="desktop-cart-item-cost">
+          <p className="desktop-cart-item-cost">
             <span>₹ </span>
             {totalOrderCost}
           </p>

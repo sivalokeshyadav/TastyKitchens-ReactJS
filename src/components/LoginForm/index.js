@@ -103,7 +103,7 @@ class LoginForm extends Component {
           <img
             src="https://res.cloudinary.com/nsp/image/upload/v1635304889/tastyKitchens/LoginMobile_1x_iukq3u.jpg"
             className="login-image-mobile"
-            alt="website login"
+            alt="website logo"
           />
         </div>
 
@@ -111,7 +111,7 @@ class LoginForm extends Component {
           <img
             src="https://res.cloudinary.com/nsp/image/upload/v1635311275/tastyKitchens/websiteLogo_1x_fzy1tx.png"
             className="login-website-logo-desktop-image"
-            alt="website logo"
+            alt="website login"
           />
           <h1 className="tasty-text">Tasty Kitchens</h1>
           <h1 className="login-text">Login</h1>
@@ -126,7 +126,7 @@ class LoginForm extends Component {
         <img
           src="https://res.cloudinary.com/nsp/image/upload/v1635305272/tastyKitchens/LoginLarge_1x_gfwe0e.jpg"
           className="login-image-desktop"
-          alt="website login"
+          alt="website log"
         />
       </div>
     )
